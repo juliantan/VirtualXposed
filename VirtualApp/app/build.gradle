@@ -25,11 +25,11 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId "io.va.exposed"
+        applicationId "com.tjl.vx"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 174
-        versionName "0.17.4"
+        versionCode 180
+        versionName "0.18.0"
         multiDexEnabled false
         android {
             defaultConfig {
